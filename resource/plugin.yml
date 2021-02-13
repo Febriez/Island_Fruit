@@ -1,0 +1,7 @@
+name: Cosmo_Island_Fruit
+version: 1.0
+author: Splendor
+main: com.splendor.fruit.FruitMain
+
+commands:
+  채집:
